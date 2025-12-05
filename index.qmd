@@ -43,9 +43,9 @@ doi: (preprint/final publication)
 
 ------------------------------------------------------------------------
 
-This page provides additional visual material that supports and expands upon the analyses presented in the main text of the manuscript. It includes rotating 3D visualizations of the Utilization Distributions (UDs) derived from bio-logging data, as well as animations illustrating spatial overlap between sea turtle habitat use and different fishing gears. These supplementary animations help to better conceptualize the vertical and horizontal structure of habitat use, and to illustrate the contrasting patterns observed between day and night periods, as well as the differential interactions with drifting longlines (LL) and trawlers (TW) data from Global Fishing Watch (GFW) - *Fishing Events* dataset.
+This page provides additional visual material that supports and expands upon the analyses presented in the main text of the manuscript. It includes rotating 3D visualizations of the Utilization Distributions (UDs) derived from bio-logging data. These material help to better conceptualize the vertical and horizontal structure of habitat use, and to illustrate the contrasting patterns observed between day and night periods, as well as the differential interactions with drifting longlines (LL) and trawlers (TW) data from Global Fishing Watch (GFW) - *Fishing Events* dataset.
 
-doi:
+![](images/zenodo.17830882.svg){width="191"}
 
 <br>
 
