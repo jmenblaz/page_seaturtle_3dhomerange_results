@@ -1,0 +1,91 @@
+---
+title: ""
+format: 
+  html:
+    theme: flatly
+---
+
+```{=html}
+<style>
+a {
+  text-decoration: none;        
+  color: #66b3ff !important;   /* link color */
+}
+
+a:hover {
+  text-decoration: none;   
+  color: #3399ff !important;    /* mouse in*/
+}
+
+p {
+  text-align: justify;       
+  max-width: 800px;         
+  margin-left: auto;          
+  margin-right: auto;
+}
+  .table-caption {
+  font-size: 0.8em;
+  color: #999999;
+  text-align: center;
+}
+</style>
+```
+
+## Seaturtle homerange 🐢
+
+### Abstract
+
+### keywords
+
+Javier Menéndez-Blázquez <a href="https://orcid.org/0000-0002-1882-7896"><img src="images/orcid.svg" alt="ORCID logo" width="19"/></a>, Jessica Ruff, Ricardo Sagarminaga, Brendan J. Godley & David March
+
+doi: (preprint/final publication)
+
+------------------------------------------------------------------------
+
+Description of the page: this page is created for support visualization of the data in the maintext of the manuscript
+
+doi:
+
+|  |  |
+|------------------------------------|------------------------------------|
+| ![50/95 UD Day](images/clipboard-1137141596.gif){width="317"} | ![50/95 UD Night](images/clipboard-2608811719.gif){width="317"} |
+
+Viz 1: The images shows a rotating view to display the 3D Utilization Distribution (UD), ilustrating significant differences between day and night periods for one of the tagged sea turtles [(]{.underline}*organismID* #200043) \[see **Figure 3** e-f in the main text\].
+
+<br>
+
+<br>
+
+<br>
+
+|  |  |
+|------------------------------------|------------------------------------|
+| ![95 UD Day overlap with Drifting Longlines (LL) fishing](images/clipboard-3971708517.gif){width="330"} | ![95 UD Day overlap with Trawlers (TW) fishing](results/3d_95UD_TW_fishing_overlap_day.gif){width="331"} |
+| ![95 UD Night overlap with Drifting Longlines (LL) fishing](results/3d_95UD_LL_fishing_overlap_night.gif){width="331"} | ![95 UD Night overlap with Trawlers (TW) fishing](results/3d_95UD_TW_fishing_overlap_night.gif){width="331"} |
+
+Viz 2: The images show a rotating view of the 3D UDS to illustrate spatial overlap and the presence of trawlers and longlines, highlighting differences between day and night periods for one of the tagged sea turtles (organismID #200043) \[see **Figure 6** in the main text\]
+
+<br>
+
+<br>
+
+## License
+
+Copyright ^(c)^ 2025 · MIT License
+
+Page and DataViz by Javier Menéndez-Blázquez
+
+@jmenblaz <a href="https://github.com/jmenblaz"><img src="images/github-mark.svg" alt="GitHub logo" width="22" height="23"/></a> <a href="https://www.linkedin.com/in/jmenendezblazquez/"><img src="images/linkedin_short.svg" alt="Linkedin logo" width="22"/></a> <a href="https://bsky.app/profile/jmenblaz.bsky.social"><img src="images/bluesky.svg" alt="Bluesky logo" width="22" height="19"/></a>
+
+## Open Research
+
+All analyses were programed in R (v 4.4.1) (R Core Team [2024](https://onlinelibrary.wiley.com/doi/10.1111/faf.70017?af=R#faf70017-bib-0038)). Code and scripts generated are available from publication GitHub repository
+
+<a href="https://github.com/jmenblaz">![GitHub logo](images/github-mark.svg){alt="GitHub logo" width="22" height="22"}</a> . DOI: [10.5281/zenodo.15551823](https://doi.org/10.5281/zenodo.15551823)
+
+[github.com/SpatialMarine/raor_sat_monitoring_sml](https://github.com/SpatialMarine/raor_sat_monitoring_sml)
+
+## Acknowledgements
+
+This study was supported by the BBVA Foundation (Ayudas Fundación BBVA a Equipos de Investigación Científica 2016), NOAA Fisheries Pacific Islands Fisheries Science Center, the Balearic Islands Coastal and Forecasting System, and the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement N^o^. 79493. David March and Javier Menéndez-Blázquez acknowledge support from the Generalitat Valenciana through the GenT program (CIDEGENT/2021/058)
