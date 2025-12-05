@@ -43,9 +43,11 @@ doi: (preprint/final publication)
 
 ------------------------------------------------------------------------
 
-Description of the page: this page is created for support visualization of the data in the maintext of the manuscript
+This page provides additional visual material that supports and expands upon the analyses presented in the main text of the manuscript. It includes rotating 3D visualizations of the Utilization Distributions (UDs) derived from bio-logging data, as well as animations illustrating spatial overlap between sea turtle habitat use and different fishing gears. These supplementary animations help to better conceptualize the vertical and horizontal structure of habitat use, and to illustrate the contrasting patterns observed between day and night periods, as well as the differential interactions with drifting longlines (LL) and trawlers (TW) data from Global Fishing Watch (GFW) - *Fishing Events* dataset.
 
 doi:
+
+<br>
 
 |  |  |
 |------------------------------------|------------------------------------|
@@ -80,11 +82,9 @@ Page and DataViz by Javier Menéndez-Blázquez
 
 ## Open Research
 
-All analyses were programed in R (v 4.4.1) (R Core Team [2024](https://onlinelibrary.wiley.com/doi/10.1111/faf.70017?af=R#faf70017-bib-0038)). Code and scripts generated are available from publication GitHub repository
+All analyses were programed in R (v 4.4.1) (R Core Team [2024](https://onlinelibrary.wiley.com/doi/10.1111/faf.70017?af=R#faf70017-bib-0038)). Code and scripts generated are available from publication GitHub repository ([github.com/SpatialMarine/seaturtle_3dhomerange](https://github.com/SpatialMarine/seaturtle_3dhomerange); DOI: [10.5281/zenodo.15551823](https://doi.org/10.5281/zenodo.15551823))
 
-<a href="https://github.com/jmenblaz">![GitHub logo](images/github-mark.svg){alt="GitHub logo" width="22" height="22"}</a> . DOI: [10.5281/zenodo.15551823](https://doi.org/10.5281/zenodo.15551823)
-
-[github.com/SpatialMarine/raor_sat_monitoring_sml](https://github.com/SpatialMarine/raor_sat_monitoring_sml)
+<a href="https://github.com/jmenblaz">![GitHub logo](images/github-mark.svg){alt="GitHub logo" width="22" height="22"}</a> .
 
 ## Acknowledgements
 
