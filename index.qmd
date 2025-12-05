@@ -50,7 +50,7 @@ This page provides additional visual material that supports and expands upon the
 <br>
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | ![50/95 UD Day](images/clipboard-1137141596.gif){width="317"} | ![50/95 UD Night](images/clipboard-2608811719.gif){width="317"} |
 
 Viz 1: The images shows a rotating view to display the 3D Utilization Distribution (UD), ilustrating significant differences between day and night periods for one of the tagged sea turtles [(]{.underline}*organismID* #200043) \[see **Figure 3** e-f in the main text\].
@@ -62,7 +62,7 @@ Viz 1: The images shows a rotating view to display the 3D Utilization Distributi
 <br>
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | ![95 UD Day overlap with Drifting Longlines (LL) fishing](images/clipboard-3971708517.gif){width="330"} | ![95 UD Day overlap with Trawlers (TW) fishing](results/3d_95UD_TW_fishing_overlap_day.gif){width="331"} |
 | ![95 UD Night overlap with Drifting Longlines (LL) fishing](results/3d_95UD_LL_fishing_overlap_night.gif){width="331"} | ![95 UD Night overlap with Trawlers (TW) fishing](results/3d_95UD_TW_fishing_overlap_night.gif){width="331"} |
 
