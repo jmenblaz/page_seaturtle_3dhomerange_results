@@ -33,13 +33,19 @@ p {
 
 ## 3D Diel Utilization Distribution: a novel perspective to understand marine turtle-fishery interaction
 
+**Javier Menéndez-Blázquez** <a href="https://orcid.org/0000-0002-1882-7896">**![ORCID logo](images/orcid.svg){alt="ORCID logo" width="19"}**</a>**, Jessica Ruff, Ricardo Sagarminaga, Brendan J. Godley & David March**
+
+<br>
+
 ### Abstract
 
-### keywords
+Spatial overlap with anthropogenic activities poses significant concerns for large marine megafauna which regularly utilize the vertical dimension and are particularly susceptible to threats such as bycatch or vessel collisions. Advancements in bio-logging methods have enabled the reconstruction of 3D animal movements, offering a more accurate view of their habitat use and potential interactions with anthropogenic threats. Here, we applied a 3D spatial framework to quantify the overlap between loggerhead turtles (Caretta caretta) and two commercial fishing gear, trawlers and drifting-longlines, two of the main sources of bycatch for this species in the Western Mediterranean Sea. By using high-resolution dive data from satellite-tagged and spatial distribution of fishing, we compared 2D and 3D overlap between species utilization distributions and fishing presence. Our results reveal that 2D approaches overestimate the degree of intersection with fishing activities, with reductions of approximately 60–75% when accounting for the vertical dimension across gears, diel periods, and utilization distribution levels. This overestimation was more evident during the day, when turtles expanded their depth range. This study represents the first application of 3D overlap analysis with marine turtles and highlights the importance of integrating depth use into bycatch assessments. Our study provides a scalable framework to refine species–fishery interaction estimates and inform gear-specific, depth-targeted mitigation strategies, supporting more effective ecosystem-based conservation and dynamic ocean management.
 
-Javier Menéndez-Blázquez <a href="https://orcid.org/0000-0002-1882-7896"><img src="images/orcid.svg" alt="ORCID logo" width="19"/></a>, Jessica Ruff, Ricardo Sagarminaga, Brendan J. Godley & David March
+**Key words**: *Bio-logging · Bycatch risk · Marine megafauna · Spatial planning · Three-dimensional overlap*
 
-doi: (preprint/final publication)
+<br>
+
+**doi**: *preprint/final publication*
 
 ------------------------------------------------------------------------
 
@@ -86,4 +92,4 @@ All analyses were programed in `R` (v 4.4.5) (R Core Team 2024). Code and scrip
 
 ## Acknowledgements
 
-This study was supported by the BBVA Foundation (Ayudas Fundación BBVA a Equipos de Investigación Científica 2016), NOAA Fisheries Pacific Islands Fisheries Science Center, the Balearic Islands Coastal and Forecasting System, and the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement N^o^. 79493. David March and Javier Menéndez-Blázquez acknowledge support from the Generalitat Valenciana through the GenT program (CIDEGENT/2021/058)
+This study was supported by the BBVA Foundation (Ayudas Fundación BBVA a Equipos de Investigación Científica 2016), NOAA Fisheries Pacific Islands Fisheries Science Center, the Balearic Islands Coastal and Forecasting System, and the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 79493. Javier Menéndez-Blázquez and David March acknowledge support from the Generalitat Valenciana through the GenT program (CIDEGENT/2021/058).
